@@ -1,3 +1,4 @@
+# Reft
 import requests
 
 def get_bitcoin_price(currency='usd'):
@@ -52,4 +53,4 @@ def calculator():
 
 if __name__ == '__main__':
     calculator()
-# Reft
+
